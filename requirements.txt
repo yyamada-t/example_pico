@@ -1,0 +1,11 @@
+# MicroPython libraries required for this project
+# These should be installed on the Raspberry Pi Pico W
+
+# SSD1306 OLED Display Driver
+# Download from: https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py
+ssd1306.py
+
+# urequests - HTTP client library (usually built-in with MicroPython)
+# ujson - JSON library (usually built-in with MicroPython)
+# network - Network library (built-in with MicroPython)
+# machine - Hardware control library (built-in with MicroPython)
